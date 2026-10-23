@@ -1,0 +1,5 @@
+streamlit>=1.41,<2
+langchain-core>=1,<2
+langchain-google-genai>=4,<5
+python-dotenv>=1,<2
+
